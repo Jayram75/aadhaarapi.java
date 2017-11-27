@@ -1,0 +1,11 @@
+.idea/**/gradle.xml
+.idea/**/tasks.xml
+.idea/**/workspace.xml
+
+.idea/**/copyright
+.idea/**/inspectionProfiles
+.idea/**/libraries
+
+.gradle/
+build/
+out/
